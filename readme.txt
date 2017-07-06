@@ -1,4 +1,5 @@
-Modeling the famous Pima Indians Diabetes dataset to predict the onset of diabetes using Keras and Tensorflow.
+
+Using Keras and Tensorflow to model the onset of diabetes using the famous Pima Indians Diabetes dataset.
 
 A copy of the dataset is included. Need to install the following libraries at the command prompt in Vienna command window:
 
